@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://00naer00.github.io</id>
+    <id>https://00naer00.github.io/</id>
     <title>Gridea</title>
-    <updated>2022-03-01T05:19:03.240Z</updated>
+    <updated>2022-03-01T05:22:16.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://00naer00.github.io"/>
+    <link rel="alternate" href="https://00naer00.github.io/"/>
     <link rel="self" href="https://00naer00.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://00naer00.github.io/images/avatar.png</logo>
